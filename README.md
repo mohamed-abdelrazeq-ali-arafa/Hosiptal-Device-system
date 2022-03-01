@@ -1,1 +1,1 @@
-# Hosiptal-Device-system
+# Hospital-Devices-Control-System
